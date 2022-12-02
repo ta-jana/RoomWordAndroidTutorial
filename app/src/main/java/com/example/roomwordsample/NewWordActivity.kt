@@ -7,6 +7,7 @@ import android.os.Bundle
 import android.text.TextUtils
 import android.widget.Button
 import android.widget.EditText
+import com.RoomWordSample.R
 
 class NewWordActivity : AppCompatActivity() {
 
